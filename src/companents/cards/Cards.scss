@@ -7,4 +7,14 @@
 }
 div{
     max-width: 100%;
+    width: 200px;
+    margin: 200px auto;
+    h1{
+        font-size: 70px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        
+    }
+
 }
