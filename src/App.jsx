@@ -1,4 +1,4 @@
-import "./companents/cards/Cards";
+import Cards from "./companents/cards/Cards.jsx";
 function App(){
     return(
         <>
