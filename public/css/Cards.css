@@ -8,8 +8,11 @@
 
 div {
   max-width: 100%;
-  width: 200px;
-  margin: 200px auto;
+  width: 500px;
+  margin: 300px auto;
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
 }
 div h1 {
   font-size: 70px;
@@ -19,4 +22,6 @@ div h1 {
 }
 div button {
   padding: 20px 30px;
+  font-size: 30px;
+  font-family: Fira Code;
 }
